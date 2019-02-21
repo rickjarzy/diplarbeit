@@ -1,0 +1,39 @@
+Atkinson et al 
+analysing the effect of different geocomputional techniques on estimating phenology in india
+SG_GAU_FFT_LOG_ für eine landwirtschaftlich genutzte fläche in indien
+
+
+Atkins_Atzberger
+Inter-comparison of four models for smoothing satellite sensor time-series data to estimate vegetation phenology
+Atkinson_et_al_Vergleich_FFT_SG_LOG_GAU_6locations.PNG
+Atkinson_et_al_Vergleich_FFT_SG_LOG_GAU_6locations_agriculture.PNG
+
+
+
+
+TIMESAT Manuel 3.2
+TIMESATmanuell_adaption_to_the_uper_envelope.PNG
+TIMESATmanuell_savitzky_golay_filter.PNG
+
+
+
+
+
+Landsat Ecosystem Disturbance Adaptive Processing System (LEDAPS) Algorithm Description
+Atmospheric_correctin_flow_LEDAPS.PNG
+Algorithm_workflow_LEDAPS.PNG
+
+RefSys Sinusoidal
+MODIS Land Reference Description
+https://lpdaac.usgs.gov/sites/default/files/public/modis/modis_sinusoidal_grid.jpg
+
+
+Absolute Kalibrierung
+Absolute Radiometric Calibration of Landsat Using a Pseudo Invariant Calibration Site.pdf
+modellierte_gmessene_MODIS_mittels_lin_BRDF_Libya4.PNG
+prozent_diff_zw_lyb4model_und_MODIS.PNG
+temporaler_Trend_vonETMplus_Libya4.PNG
+prozent_diff_zw_lyb4model_und_ETMplus.PNG
+
+
+Workflow_6S.png aus Vermote et al. 2006 - 6S manual Part1

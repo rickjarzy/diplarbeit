@@ -1,0 +1,47 @@
+\BOOKMARK [0][-]{chapter.1}{Motivation}{}% 1
+\BOOKMARK [0][-]{chapter.2}{State of the Art}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Filterung verrauschter Satellitenbildzeitreihen}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Methoden der Zeitreihenfilterung}{section.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.1.1}{Savitzky Golay}{subsection.2.1.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.1.2}{Anwendung Savitzky-Golay Filterung}{subsection.2.1.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.1.3}{Polynom 2. Grades}{subsection.2.1.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.1.4}{Gapfilling}{subsection.2.1.1}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.1.5}{Verspeicherung der Zeitreihe}{subsection.2.1.1}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.1.6}{Asymmetrische Gauss'scher Fit}{subsection.2.1.1}% 10
+\BOOKMARK [3][-]{subsubsection.2.1.1.7}{Doppel-Logistische Funktion}{subsection.2.1.1}% 11
+\BOOKMARK [3][-]{subsubsection.2.1.1.8}{Fourier-Analyse}{subsection.2.1.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.2}{Vergleich unterschiedlicher Fittingmethoden anhand verrauschter Satellitendatenzeitreihen}{section.2.1}% 13
+\BOOKMARK [1][-]{section.2.2}{Kalibrierung}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.1}{Absolute Kalibrierung}{section.2.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.1.1}{Pseudo Invariante Feature Sites - PICS}{subsection.2.2.1}% 16
+\BOOKMARK [3][-]{subsubsection.2.2.1.2}{6S-Modell}{subsection.2.2.1}% 17
+\BOOKMARK [3][-]{subsubsection.2.2.1.2}{Absorptions- und Streuungseffekte}{subsection.2.2.1}% 18
+\BOOKMARK [3][-]{subsubsection.2.2.1.3}{Bidirektionale Reflektionsverteilunsgfunktion}{subsection.2.2.1}% 19
+\BOOKMARK [3][-]{subsubsection.2.2.1.4}{MODIS \( Collection V5\) BRDF/albedo product}{subsection.2.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.2.2}{Relative Kalibrierung}{section.2.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.2.2.1}{Lineare Regression}{subsection.2.2.2}% 22
+\BOOKMARK [3][-]{subsubsection.2.2.2.2}{PIF's}{subsection.2.2.2}% 23
+\BOOKMARK [1][-]{section.2.3}{Bestehende Software}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.3.1}{LEDAPS - Landsat Ecosystem Disturbance Adaptive Processing System }{section.2.3}% 25
+\BOOKMARK [2][-]{subsection.2.3.2}{TIMESAT}{section.2.3}% 26
+\BOOKMARK [0][-]{chapter.3}{Methodik}{}% 27
+\BOOKMARK [1][-]{section.3.1}{Datengrundlagen}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.1.1}{MODIS - Allgemeine Informationen zum Sensor und Tr\344gersystem}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.2}{MODIS - Compositemethoden}{section.3.1}% 30
+\BOOKMARK [3][-]{subsubsection.3.1.2.1}{Maximum Value Composite}{subsection.3.1.2}% 31
+\BOOKMARK [2][-]{subsection.3.1.3}{Landsat - Allgemeine Informationen zum Sensor und Tr\344gersystem}{section.3.1}% 32
+\BOOKMARK [2][-]{subsection.3.1.4}{Sentinel}{section.3.1}% 33
+\BOOKMARK [2][-]{subsection.3.1.5}{Sinusodial Referenzsystem}{section.3.1}% 34
+\BOOKMARK [2][-]{subsection.3.1.6}{UTM-Referenzsystem}{section.3.1}% 35
+\BOOKMARK [1][-]{section.3.2}{Datenakquisition}{chapter.3}% 36
+\BOOKMARK [2][-]{subsection.3.2.1}{MODIS}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.2}{Landsat}{section.3.2}% 38
+\BOOKMARK [1][-]{section.3.3}{mathematische Grundlagen}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.1}{statistische Kennzahlen}{section.3.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.2}{Lineare Regression}{section.3.3}% 41
+\BOOKMARK [3][-]{subsubsection.3.3.2.1}{OLS - das klassische lineare Modell}{subsection.3.3.2}% 42
+\BOOKMARK [2][-]{subsection.3.3.3}{Anwendung Savitzky-Golay Filterung}{section.3.3}% 43
+\BOOKMARK [3][-]{subsubsection.3.3.3.1}{Polynom 2. Grades}{subsection.3.3.3}% 44
+\BOOKMARK [3][-]{subsubsection.3.3.3.2}{Gapfilling}{subsection.3.3.3}% 45
+\BOOKMARK [3][-]{subsubsection.3.3.3.3}{Verspeicherung der Zeitreihe}{subsection.3.3.3}% 46
+\BOOKMARK [2][-]{subsection.3.3.4}{Ausreisserdetektion}{section.3.3}% 47

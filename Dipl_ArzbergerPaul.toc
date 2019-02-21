@@ -1,0 +1,48 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Motivation}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}State of the Art}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Filterung verrauschter Satellitenbildzeitreihen}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Methoden der Zeitreihenfilterung}{4}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}Savitzky Golay}{4}{subsubsection.2.1.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.2}Anwendung Savitzky-Golay Filterung}{5}{subsubsection.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.1.1.3}Polynom 2. Grades}{5}{subsubsection.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1.4}Gapfilling}{7}{subsubsection.2.1.1.4}
+\contentsline {subsubsection}{\numberline {2.1.1.5}Verspeicherung der Zeitreihe}{8}{subsubsection.2.1.1.5}
+\contentsline {subsubsection}{\numberline {2.1.1.6}Asymmetrische Gauss'scher Fit}{8}{subsubsection.2.1.1.6}
+\contentsline {subsubsection}{\numberline {2.1.1.7}Doppel-Logistische Funktion}{9}{subsubsection.2.1.1.7}
+\contentsline {subsubsection}{\numberline {2.1.1.8}Fourier-Analyse}{10}{subsubsection.2.1.1.8}
+\contentsline {subsection}{\numberline {2.1.2}Vergleich unterschiedlicher Fittingmethoden anhand verrauschter Satellitendatenzeitreihen}{10}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Kalibrierung}{14}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Absolute Kalibrierung}{14}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Pseudo Invariante Feature Sites - PICS}{14}{subsubsection.2.2.1.1}
+\contentsline {subsubsection}{\numberline {2.2.1.2}6S-Modell}{19}{subsubsection.2.2.1.2}
+\contentsline {subsubsection}{Absorptions- und Streuungseffekte}{19}{subsubsection.2.2.1.2}
+\contentsline {subsubsection}{\numberline {2.2.1.3}Bidirektionale Reflektionsverteilunsgfunktion}{22}{subsubsection.2.2.1.3}
+\contentsline {subsubsection}{\numberline {2.2.1.4}MODIS ( Collection V5) BRDF/albedo product}{23}{subsubsection.2.2.1.4}
+\contentsline {subsection}{\numberline {2.2.2}Relative Kalibrierung}{25}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Lineare Regression}{25}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}PIF's}{25}{subsubsection.2.2.2.2}
+\contentsline {section}{\numberline {2.3}Bestehende Software}{25}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}LEDAPS - Landsat Ecosystem Disturbance Adaptive Processing System }{25}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}TIMESAT}{28}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Methodik}{30}{chapter.3}
+\contentsline {section}{\numberline {3.1}Datengrundlagen}{30}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}MODIS - Allgemeine Informationen zum Sensor und Tr\IeC {\"a}gersystem}{30}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}MODIS - Compositemethoden}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Maximum Value Composite}{31}{subsubsection.3.1.2.1}
+\contentsline {subsection}{\numberline {3.1.3}Landsat - Allgemeine Informationen zum Sensor und Tr\IeC {\"a}gersystem}{32}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Sentinel}{33}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Sinusodial Referenzsystem}{34}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}UTM-Referenzsystem}{35}{subsection.3.1.6}
+\contentsline {section}{\numberline {3.2}Datenakquisition}{35}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}MODIS}{37}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Landsat}{37}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}mathematische Grundlagen}{38}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}statistische Kennzahlen}{38}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Lineare Regression}{38}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}OLS - das klassische lineare Modell}{38}{subsubsection.3.3.2.1}
+\contentsline {subsection}{\numberline {3.3.3}Anwendung Savitzky-Golay Filterung}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Polynom 2. Grades}{40}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}Gapfilling}{41}{subsubsection.3.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3.3}Verspeicherung der Zeitreihe}{42}{subsubsection.3.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Ausreisserdetektion}{43}{subsection.3.3.4}
